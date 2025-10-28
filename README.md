@@ -29,7 +29,7 @@ JavaScript (ES6+) → Interatividade, controle de áudio e navegação entre cap
 🔗 Deploy
 
 Acesse o projeto ao vivo aqui 👇
-👉 Dom-Casmurro - Audiobook
+👉 [Dom-Casmurro - Audiobook](https://mateus-db.github.io/Dom_Casmurro/)
 
 🚀 Como Executar o Projeto
 
